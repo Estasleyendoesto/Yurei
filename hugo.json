@@ -1,0 +1,17 @@
+{
+    "baseURL": "https://example.org/",
+    "languageCode": "es-es",
+    "params": {
+        "contact": {
+            "email": "acuabicho@gmail.com"
+        },
+        "subtitle": "Yurei-Chan Novelas Ligeras"
+    },
+    "title": "Yurei Novelas",
+    "theme": "Yurei",
+    "services": {
+      "googleAnalytics": {
+         "ID": "G-XXXXXXXXX"
+      }
+   }
+}
